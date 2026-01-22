@@ -56,8 +56,8 @@ const projects = [
     }
   },
   {
-    title: 'Database Design &',
-    subtitle: 'REST API Implementation',
+    title: 'DATABASE DESIGN &',
+    subtitle: 'REST API IMPLEMENTATION',
     description: 'Designed a Fiteness Center relational Database system with REST API and performed API Calls with CRUDL methods on Postman',
     tech: ['SQL', 'API', 'Data Modeling'],
     category: 'DATABASE',
