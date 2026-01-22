@@ -15,7 +15,7 @@ const tools = [
     icon: Terminal
   },
   { 
-    name: 'DATA SUPABASE', 
+    name: 'SUPABASE', 
     icon: Blocks
   },
   
