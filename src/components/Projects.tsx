@@ -55,6 +55,16 @@ const projects = [
       view: 'https://run.relay.app/workflows/cmk76s5ii02nc00knfzqx7zb2/edit'
     }
   },
+  {
+    title: 'Database Design &',
+    subtitle: 'REST API Implementation',
+    description: 'Designed a Fiteness Center relational Database system with REST API and performed API Calls with CRUDL methods on Postman',
+    tech: ['SQL', 'API', 'Data Modeling'],
+    category: 'DATABASE',
+    links: {
+      view: 'https://supabase.com/dashboard/project/ysxbypempauffzsqnhkg/sql/d60f0ac4-78da-40e2-b95a-c2cf28d60e43'
+    }
+  },
 ];
 
 export function Projects() {
